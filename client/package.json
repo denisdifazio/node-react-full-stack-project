@@ -12,6 +12,7 @@
   },
   "dependencies": {
     "axios": "^0.18.0",
+    "eslint-plugin-react": "^7.9.1",
     "materialize-css": "^1.0.0-rc.1",
     "prop-types": "^15.6.1",
     "react": "^16.4.0",
