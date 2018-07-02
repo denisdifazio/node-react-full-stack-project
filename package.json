@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "engines": {
-    "node": "10.3.0",
+    "node": "10.5.0",
     "npm": "6.1.0"
   },
   "scripts": {
@@ -21,11 +21,16 @@
     "concurrently": "^3.5.1",
     "cookie-session": "^2.0.0-beta.3",
     "express": "^4.16.3",
+    "localtunnel": "^1.9.0",
+    "lodash": "^4.17.10",
     "mongoose": "^5.1.4",
     "nodemon": "^1.17.5",
     "passport": "^0.4.0",
     "passport-github": "^1.1.0",
     "passport-google-oauth20": "^1.0.0",
+    "path-parser": "^4.1.1",
+    "sendgrid": "^5.2.3",
     "stripe": "^6.1.1"
-  }
+  },
+  "devDependencies": {}
 }
